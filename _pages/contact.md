@@ -1,8 +1,7 @@
 ---
 title: Contact
-author: Tao He
+author: Codin Doge
 date: 2022-02-05
-category: Jekyll
 layout: post
 ---
 

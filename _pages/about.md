@@ -2,6 +2,7 @@
 title: About
 author: Codin Doge
 date: 2022-02-04
+category: Jekyll
 layout: post
 ---
 

@@ -2,7 +2,7 @@
 title: Test 2
 author: Codin Doge
 date: 2022-02-04
-category: Test
+category: Jekyll
 layout: post
 ---
 

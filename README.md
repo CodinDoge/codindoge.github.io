@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Codin Doge
 permalink: /
+cover: ./assets/dinosaur.gif
 ---
 
 ## Codin Doge

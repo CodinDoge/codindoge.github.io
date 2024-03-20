@@ -50,6 +50,8 @@ exclude:
   - _drafts
 
 collections:
+  docs:
+    output: true
   pages:
     output: true
     permalink: /:collection/:path/

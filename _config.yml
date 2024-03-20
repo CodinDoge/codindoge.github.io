@@ -51,7 +51,8 @@ exclude:
 
 collections:
   docs:
-    output: true
+    output: false
+    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:collection/:path/

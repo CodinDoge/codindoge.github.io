@@ -12,6 +12,6 @@ Nothing really more to say about myself, started as a dev for the memes when I g
 Ended up running everything for the company.
 
 Now currently working as a software dev at a private financial institution building investment systems.
-I make people's money go brrr.
+I make people's money go brrrrrrrr.
 
 Building new stuff that interests me.
